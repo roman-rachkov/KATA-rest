@@ -6,14 +6,14 @@
 
 2. Сделал все на эндпоинты realworld
 
-  _ Регистрация
-  ![Realworld registration](./reg.png)
+   - Регистрация
+   ![Realworld registration](./reg.png)
 
-  _ Логин
-  ![Realworld login](./login.png)
+   - Логин
+   ![Realworld login](./login.png)
 
-  _ Информация
-  ![Realworld info](./info.png)
+   - Информация
+   ![Realworld info](./info.png)
 
 3. Что такое рест знаю и понимаю. С бэком хорошо знаком, сам пишу
 ![my back](./lara-route.png)
