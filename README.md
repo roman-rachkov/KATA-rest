@@ -16,4 +16,4 @@
    ![Realworld info](./info.png)
 
 3. Что такое рест знаю и понимаю. С бэком хорошо знаком, сам пишу
-   ![my back](./lara-route.png)
+![my back](./lara-route.png)
